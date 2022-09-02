@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: langle
+# key: lang
+# --
+\langle $1,$2 \rangle$3

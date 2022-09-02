@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ind-limit
+# key: ind
+# --
+\\ind_{$1}$2

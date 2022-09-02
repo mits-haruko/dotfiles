@@ -1,0 +1,4 @@
+# key: msf
+# name: mathscr
+# --
+\mathscr{$1}$2

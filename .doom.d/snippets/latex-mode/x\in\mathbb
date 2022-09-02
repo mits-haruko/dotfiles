@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: x\in\mathbb
+# key: in!
+# --
+{$1}\\in\\mathbb{$2}$3

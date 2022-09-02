@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: fiber
+# key:  fib
+# --
+\pi:\mathscr{$1}\to\mathscr{$2}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: altfrac
+# key: a//
+# --
+\\altfrac{$1}{$2}$3

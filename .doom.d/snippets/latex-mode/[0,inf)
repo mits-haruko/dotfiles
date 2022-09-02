@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name:  [0,inf)
+# key: zinf
+# --
+[0,\infty)
